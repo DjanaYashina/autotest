@@ -2,6 +2,7 @@ package org.example.hw2;
 
 public class Main {
     public static void main(String[] args) {
+
         Container container1 = new Container();
         container1.addElement(new Element(100));
         container1.addElement(new Element(60));
